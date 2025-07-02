@@ -13,7 +13,7 @@ pipeline {
         DOCKER_CREDENTIAL_ID = 'harbor'
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
-        REGISTRY = 'docker.io'
+        REGISTRY = '10.4.64.98/gulimail/'
         DOCKERHUB_NAMESPACE = 'admin'
         GITHUB_ACCOUNT = 'louk2006'
         APP_NAME = 'devops-java-sample'
